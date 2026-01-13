@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Revanth Sai 👋
 
-<!--
-**revanthsaii/revanthsaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BTech CSE** • **Android Developer** • **Open Source Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I'm a second-year BTech student passionate about building elegant software solutions. I specialize in Android development, backend systems, and automation tools. Currently focused on DSA, system design, and open-source contributions.
+
+---
+
+## Featured Projects
+
+### 🤖 NexusGuard
+**Discord Bot for Moderation & Automation**
+- Advanced moderation with logging and analytics
+- Custom command system and role management
+- Python • discord.py • PostgreSQL
+- [View Repository](https://github.com/revanthsaii/nexusguard)
+
+### 📄 PDF-Mantra
+**Lightweight PDF Utility Tool**
+- Fast PDF manipulation and editing
+- Batch processing capabilities
+- Python • PyPDF2 • Tkinter
+- [View Repository](https://github.com/revanthsaii/pdf-mantra)
+
+### 🧹 PocoOptimize
+**Android System Optimization Tool**
+- Performance optimization and battery management
+- Real-time system monitoring
+- Kotlin • Java • Android SDK
+- [View Repository](https://github.com/revanthsaii/poco-optimize)
+
+---
+
+## Tech Stack
+
+**Languages:** C • C++ • Java • Python • JavaScript • SQL • Kotlin
+
+**Mobile:** Android (Kotlin/Java) • React Native
+
+**Backend:** Node.js • Express • Python • REST APIs
+
+**Tools:** Git • GitHub • VS Code • Android Studio • Linux
+
+---
+
+## Currently Learning
+
+• Advanced DSA for interviews
+• System design fundamentals
+• Cloud deployment (AWS/GCP)
+• AI/ML integration
+
+---
+
+## Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/revanthsaii)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=revanthsaii&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=revanthsaii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
