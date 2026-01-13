@@ -17,7 +17,7 @@ I'm a second-year BTech student passionate about building elegant software solut
 - Advanced moderation with logging and analytics
 - Custom command system and role management
 - Python • discord.py • PostgreSQL
-- [View Repository](https://github.com/revanthsaii/nexusguard)
+- [View Repository](https://github.com/revanthsaii/NexusGuard-Discord-Bot)
 
 ### 📄 PDF-Mantra
 **Lightweight PDF Utility Tool**
@@ -31,7 +31,7 @@ I'm a second-year BTech student passionate about building elegant software solut
 - Performance optimization and battery management
 - Real-time system monitoring
 - Kotlin • Java • Android SDK
-- [View Repository](https://github.com/revanthsaii/poco-optimize)
+- [View Repository](https://github.com/revanthsaii/PocoOptimize)
 
 ---
 
