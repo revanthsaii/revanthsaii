@@ -61,11 +61,3 @@ I'm a second-year BTech student passionate about building elegant software solut
 - 💼 [LinkedIn](https://linkedin.com/in/revanthsaii)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revanthsaii&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=revanthsaii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
